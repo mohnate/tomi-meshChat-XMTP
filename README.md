@@ -1,9 +1,9 @@
 # XMTP Inbox web chat app
 
-![Unit and Component Tests](https://github.com/xmtp-labs/xmtp-inbox-web/actions/workflows/tests.yml/badge.svg)
-![E2E Tests](https://github.com/xmtp-labs/xmtp-inbox-web/actions/workflows/cypress.yml/badge.svg)
-![Lint Checks](https://github.com/xmtp-labs/xmtp-inbox-web/actions/workflows/lint.yml/badge.svg)
-![Code Format Checks](https://github.com/xmtp-labs/xmtp-inbox-web/actions/workflows/fmt-check.yml/badge.svg)
+![Unit and Component Tests](https://github.com/mohnate/mohnate/actions/workflows/tests.yml/badge.svg)
+![E2E Tests](https://github.com/xmtp-labs/mohnate/actions/workflows/cypress.yml/badge.svg)
+![Lint Checks](https://github.com/xmtp-labs/mohnate/actions/workflows/lint.yml/badge.svg)
+![Code Format Checks](https://github.com/xmtp-labs/mohnate/actions/workflows/fmt-check.yml/badge.svg)
 
 ![x-red-sm](https://user-images.githubusercontent.com/510695/163488403-1fb37e86-c673-4b48-954e-8460ae4d4b05.png)
 
@@ -26,7 +26,7 @@ This app has not undergone a formal security audit.
 
 The XMTP Inbox app uses Infura to enable wallet apps to connect to the Ethereum blockchain.
 
-Add your Infura API key to `.env.local` at the root of `xmtp-inbox-web`.
+Add your Infura API key to `.env.local` at the root of `mohnate`.
 
 ```
 INFURA_ID={YOUR_INFURA_API_KEY}
